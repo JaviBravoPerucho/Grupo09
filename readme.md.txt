@@ -8,3 +8,5 @@ cdcdxxdxdxdxdxd
 
 
 Nueva funcionalidad addcolor añadida
+
+Nueva funcionalidad para rotar piezas con el ratón
